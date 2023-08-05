@@ -49,7 +49,7 @@ mais tout fonctionne correctement
 
 
 ## <a id="replit"></a> Tutorial replit
-![](https://i.imgur.com/RMQmuge.png)
+![](https://imgur.com/a/oUwtskY)
 
 
 ### <a id="terms"></a> Terms Of Usage
