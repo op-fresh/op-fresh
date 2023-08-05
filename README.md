@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Backup Tool V2
+  Op Fresh
 </h1>
 
 
@@ -13,22 +13,20 @@ This software was made for personal **education** and **sandbox testing**
 ---
 
 
-## <a id="content"></a>🌐 〢 Content
-- [📩・Deploy With](#deploys)
+## <a id="content"></a> Content
+- [📩・Deployer](#deploys)
 - [🎉・Setting up](#setup)
-- [🔰・Features](#features)
-- [👁️・Preview](#preview)
-- [📝・Changelog](#changelog)
+- [🔰・Config ](#config)
+- [👁️・Tutorial replit ](#replit)
 - [💼・Term](#terms)
-- [🕵️‍♂️・Authors](#authors)
 
 
-## <a id="deploys"></a>📩 〢 Deploys
+## <a id="deploys"></a> Deploys
 [Deployer sur replit](https://replit.com/github/hisxokaq/op-fresh)
 
 
 
-## <a id="setup"></a> 📁 〢 Setting up
+## <a id="setup"></a> Setting up
 1. Install [NodeJS](https://nodejs.org/en)
 2. Install [Files](https://github.com/hisxokaq/op-fresh/archive/refs/heads/main.zip)
 3. Complete the configuration
@@ -38,22 +36,9 @@ This software was made for personal **education** and **sandbox testing**
 
 
 
-## <a id="features"></a>🔰 〢 Features
-```diff
-> Default:
+## <a id="config"></a>🔰 〢Configuration
+```json
 
-- Create Guild Backup
-- Create Emoji Backup
-- Auto Create Guild
-- Backup With Options
-- Load A Guild/Emoji Backup
-- Delete All Channels By Name
-- Delete All Channels From A Category
-- Create/Find A Template
-- Display The List Of Backups
-- Multiple Console Colors
-- Multi Language (fr & en)
-- Open Source
 ```
 
 
