@@ -1,0 +1,71 @@
+{
+  "name": "op-fresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "ascii-table": "^0.0.9",
+    "asynckit": "^0.4.0",
+    "canvas": "^2.11.0",
+    "chalk": "^5.3.0",
+    "child_process": "^1.0.2",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.33.5",
+    "discord-backup": "^3.3.2",
+    "discord-gamecord": "^4.1.0",
+    "discord-giveaways": "^5.2.2",
+    "discord-together": "^1.3.31",
+    "discord.js": "^13.12.0",
+    "discord.js-captcha": "^3.0.4",
+    "discord.js-selfbot-v13": "^2.14.6",
+    "discordjs-button-pagination": "^1.0.7",
+    "enmap": "^5.9.5",
+    "execSync": "^1.0.2",
+    "fast-deep-equal": "^3.1.3",
+    "figlet": "^1.5.2",
+    "form-data": "^4.0.0",
+    "gradient-string": "^2.0.2",
+    "hex-color-regex": "^1.1.0",
+    "mal-scraper": "^2.11.4",
+    "md5": "^2.3.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.12",
+    "node-osu": "^2.2.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "readline-sync": "^1.4.10",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.3",
+    "tslib": "^2.6.1",
+    "webidl-conversions": "^3.0.1",
+    "weky": "^3.1.8",
+    "whatwg-url": "^5.0.0",
+    "ws": "^8.13.0",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.2"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hisxokaq/op-fresh.git"
+  },
+  "keywords": [
+    "raid",
+    "bot",
+    "selfbot",
+    "best"
+  ],
+  "author": "Hisxokaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hisxokaq/op-fresh/issues"
+  },
+  "homepage": "https://github.com/Hisxokaq/op-fresh#readme"
+}
