@@ -24,7 +24,7 @@ This software was made for personal **education** and **sandbox testing**
 
 
 ## <a id="deploys"></a>📩 〢 Deploys
-[![Deploy](https://raw.githubusercontent.com/hisxokaq/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/hisxokaq/op-fresh)
+[Deployer sur replit](https://replit.com/github/hisxokaq/op-fresh)
 
 
 
